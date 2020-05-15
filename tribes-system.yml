@@ -1,0 +1,21 @@
+#Tribe Pack
+# Made by Playge
+#
+#Mobs get exp when killing things or doing stuff and level up after specific exp
+#Armorstand spawns at a random location and place a specialblock where the other tribe members can spawn on
+#
+#
+#Tribe factions:
+# frost(Lives in snowy and ice biomes | )
+# Desert()
+# jungle(lives in the jungle and focuses mainly on magic and plant items)
+# goblin(like to invade bases and randomly attack players and steal their items | Cheap items but are alot of them)
+#
+#Mob Classes:
+# fighter | Level 1-5
+# Farmer | level 1-3
+# Mage | Level 1-4
+# Archer | Level 1-5
+# Chief(Boss mob | If killed, tribe either disbands or you can take it over["10/90" Chance "Takeover/Disband"]) | Level 1-2 
+# Tank | Level 1-3
+# Builder | Places buildings for the tribe every 12h
