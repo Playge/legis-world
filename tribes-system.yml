@@ -6,16 +6,20 @@
 #
 #
 #Tribe factions:
-# frost(Lives in snowy and ice biomes | )
-# Desert()
+# frost(Lives in snowy and ice biomes | uses ice wepaons, more axs and hammers )
+# Desert(lives in Desert uses fire magic and fire and sand related weapons such as daggers and spears)
 # jungle(lives in the jungle and focuses mainly on magic and plant items)
 # goblin(like to invade bases and randomly attack players and steal their items | Cheap items but are alot of them)
 #
 #Mob Classes:
 # fighter | Level 1-5
 # Farmer | level 1-3
-# Mage | Level 1-4
-# Archer | Level 1-5
+# Mage | Level 1-4 | Casts 2 Different spells which depend on which tribe they are in
+#  - frost: Snow Prison and Slowness
+#  - desert: Fireball and Sand Prison
+#  - jungle: Healing self and tribe members and tree Prison
+#  - goblin: Gold Nugget Shot and Poisen cast
+# Archer | Level 1-5 | Skeleton which Shoots Arrows and trys to stay at distance. Goes invisable every 5 seconds for 2 seconds
 # Chief(Boss mob | If killed, tribe either disbands or you can take it over["10/90" Chance "Takeover/Disband"]) | Level 1-2 
-# Tank | Level 1-3
+# Tank | Level 1-3 | Super Tanky and slow, every 10seconds charges at player and eals 4 damage. Each race has different colored particles during charge
 # Builder | Places buildings for the tribe every 12h
